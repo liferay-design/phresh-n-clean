@@ -275,7 +275,6 @@ The Tasty Treats section will tell you some of our Liferay team members' top pic
 </br>
 
 ### 1. Naoki Hisamoto's Top Picks   
-Associate UX Designer
   
 </br>
   
@@ -292,7 +291,6 @@ To install all of the following applications with a single line of code:
 </br>
 
 ### 2. Abel Hancock's Top Picks   
-Associate UX Designer
   
 </br>
   
@@ -307,7 +305,6 @@ To install all of the following applications with a single line of code:
 </br>
 
 ### 3. Rebecca Wu's Top Picks   
-Associate UX Designer
   
 </br>
   
@@ -321,4 +318,19 @@ To install all of the following applications with a single line of code:
 
 </br>
 
-## 
+### 4. Paul Hanaoka's Picks
+
+  1. [Clipy](https://clipy-app.com/)
+  1. [Imageoptim](https://imageoptim.com/)
+
+Full List: `brew cask install google-chrome firefox slack skype figma sketch google-drive-file-stream adobe-creative-cloud sublime-text flux bettertouchtool opera visual-studio-code vivaldi clipy dropbox imageoptim brave`
+
+  1. [zsh](https://ohmyz.sh)
+    1. [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
+    1. [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
+  1. [VS Code](https://code.visualstudio.com)  
+    1. [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) — [Paul's Settings (Gist)](https://gist.github.com/plhnk/684f94eb90575c908f2e9b53b8dfecdf)
+
+#### Fonts
+
+`brew cask install font-source-sans-pro font-blokk-neue font-playfair-display-sc font-playfair-display`
