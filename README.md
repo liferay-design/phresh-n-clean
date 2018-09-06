@@ -274,63 +274,58 @@ The Tasty Treats section will tell you some of our Liferay team members' top pic
 
 </br>
 
-### 1. Naoki Hisamoto's Top Picks   
-  
-</br>
-  
-To install all of the following applications with a single line of code:
-   1. Enter `brew cask install notion caffeine karabiner-elements spotify` into a Terminal prompt.
-   
-</br>
-  
+### 1. Naoki Hisamoto's Top Picks
+
   1. [Notion](https://www.notion.so/) `notion`
   2. [Caffeine](http://lightheadsw.com/caffeine/) `caffeine`
   3. [Karabiner Elements](https://pqrs.org/osx/karabiner/) `karabiner-elements`
   4. [Spotify](https://www.spotify.com/us/) `spotify`
 
-</br>
+To install all of the following applications with a single line of code enter 
 
-### 2. Abel Hancock's Top Picks   
-  
-</br>
-  
-To install all of the following applications with a single line of code:
-   1. Enter `brew cask install iterm2` into a Terminal prompt.
-   
-</br>
+```brew cask install notion caffeine karabiner-elements spotify```
+
+into a Terminal prompt.
+
+### 2. Abel Hancock's Top Picks
   
   1. [iterm<sup>2</sup>](https://www.iterm2.com/) `iterm2`
   2. [Color Oracle](http://colororacle.org/) `color-oracle`
 
-</br>
+To install all of the following applications with a single line of code enter 
 
-### 3. Rebecca Wu's Top Picks   
+```brew cask install iterm2```
+
+into a Terminal prompt.
   
-</br>
-  
-To install all of the following applications with a single line of code:
-   1. Enter `brew cask install flux evernote` into a Terminal prompt.
-   
-</br>
-  
+
+### 3. Rebecca Wu's Top Picks
+
   1. [Flux](https://justgetflux.com/) `flux`
   2. [Evernote](https://evernote.com/) `evernote`
 
-</br>
+To install all of the following applications with a single line of code enter:
+`brew cask install flux evernote`
+into a Terminal prompt.
 
 ### 4. Paul Hanaoka's Picks
 
   1. [Clipy](https://clipy-app.com/)
   1. [Imageoptim](https://imageoptim.com/)
-
-Full List: `brew cask install google-chrome firefox slack skype figma sketch google-drive-file-stream adobe-creative-cloud sublime-text flux bettertouchtool opera visual-studio-code vivaldi clipy dropbox imageoptim brave`
-
   1. [zsh](https://ohmyz.sh)
-    1. [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
-    1. [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
+      1. [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
+      1. [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
   1. [VS Code](https://code.visualstudio.com)  
-    1. [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) — [Paul's Settings (Gist)](https://gist.github.com/plhnk/684f94eb90575c908f2e9b53b8dfecdf)
+      1. [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) — [Paul's Settings (Gist)](https://gist.github.com/plhnk/684f94eb90575c908f2e9b53b8dfecdf)
+
+To install all of the following applications with a single line of code enter:
+`brew cask install clipy imageoptim zsh zsh-autosuggestions zsh-syntax-highlighting visual-studio-code`
+into a Terminal prompt.
+
+#### Paul's Complete List 
+
+```brew cask install google-chrome firefox slack skype figma sketch google-drive-file-stream adobe-creative-cloud sublime-text flux bettertouchtool opera visual-studio-code vivaldi clipy dropbox imageoptim brave```
 
 #### Fonts
 
-`brew cask install font-source-sans-pro font-blokk-neue font-playfair-display-sc font-playfair-display`
+```brew cask install font-source-sans-pro font-blokk-neue font-playfair-display-sc font-playfair-display```
