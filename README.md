@@ -159,7 +159,7 @@ Caskroom-fonts is a Homebrew Tap which allows you to use the same friendly Homeb
 GitHub is a development platform inspired by the way you work. From open source to business, you can host and review code, manage projects, and build software alongside millions of other developers.
 
 1. [Set up Git and authenticate with GitHub](https://help.github.com/articles/set-up-git/)
-   1. Install Git by typing `brew install git`.
+   1. Install Git by entering `brew install git` into your terminal and hitting 'enter'.
    1. [Set your username](https://help.github.com/articles/setting-your-username-in-git/).
    1. [Set your commit email address](https://help.github.com/articles/setting-your-commit-email-address-in-git/) (use the email your GitHub account is associated with).
    1. [Cash your password inside Git](https://help.github.com/articles/caching-your-github-password-in-git/) (makes life easier).
