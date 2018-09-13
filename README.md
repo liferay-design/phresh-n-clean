@@ -291,3 +291,19 @@ To install all of the following applications with a single line of code enter:
 `brew cask install flux evernote`
 
 into a Terminal prompt.
+
+### James Lyons' Top Picks
+
+  1. [Chunk Window Manager](https://koekeishiya.github.io/chunkwm/) `chunkwm`
+  2. [Simple Hotkey Daemon](https://github.com/koekeishiya/skhd) `skhd`
+  3. [GitKraken](https://www.gitkraken.com/) `gitkraken`
+
+To install all of the following applications with a few lines of code enter:
+
+```
+brew tap crisidev/homebrew-chunkwm 
+brew install chunkwm koekeishiya/formulae/skhd
+brew cask install gitkraken
+```
+
+into a Terminal prompt.
